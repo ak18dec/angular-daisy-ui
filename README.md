@@ -1,4 +1,4 @@
-#Daisy UI + Tailwind + Confetti Integration Demo
+## Daisy UI + Tailwind + Confetti Integration Demo
 
 1. Created a new angular project with CSS
 2. Added Tailwind 4 to Project
